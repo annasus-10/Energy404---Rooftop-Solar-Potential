@@ -40,9 +40,7 @@ cleaned_data/accra.csv
 cleaned_data/colombo.csv
 ...
 ```
-
 Upload your cleaned `.csv` into the **`/cleaned_datasets/`** folder in the main repo.
-Upload the original `.csv` into the **`/original_datasets/`** folder in the main repo.
 ---
 
 ## ✅ Final Notes
