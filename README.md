@@ -14,6 +14,15 @@ Estimate rooftop solar potential across ~31 global cities using open NEO dataset
 | `merged_data/` | (Later) merged master dataset |
 
 ---
+---
+
+### ⚙️ Setup Instructions for Teammates
+
+1. Clone the repo (or if already cloned, run `git pull origin main` after owner’s cleanup).
+2. Run once:
+   ```bash
+   git lfs install
+---
 
 ### Next Steps
 - Everyone runs `standardize_solar_data.py` locally.
