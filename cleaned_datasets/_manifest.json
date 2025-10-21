@@ -164,5 +164,6 @@
   "combined": {
     "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\all_cities_clean.parquet",
     "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\all_cities_clean.csv"
-  }
+  },
+  "encoding": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\building_type_encoding.json"
 }

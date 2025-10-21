@@ -1,0 +1,19 @@
+0 → single family residential
+
+1 → multifamily residential
+
+2 → commercial
+
+3 → small commercial
+
+4 → industrial
+
+5 → public / public sector
+
+6 → peri-urban settlement
+
+7 → schools
+
+8 → public health facilities
+
+9 → hotels
