@@ -1,0 +1,168 @@
+{
+  "columns": [
+    "City",
+    "Surface_area",
+    "Potential_installable_area",
+    "Peak_installable_capacity",
+    "Energy_potential_per_year",
+    "Assumed_building_type",
+    "Estimated_tilt"
+  ],
+  "total_rows": 6530761,
+  "per_dataset": [
+    {
+      "dataset": "accra_rooftop_solarpotential",
+      "rows": 268947,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\accra_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\accra_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "almaty_rooftop_solarpotential",
+      "rows": 138339,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\almaty_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\almaty_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "antigua_rooftop_solarpotential",
+      "rows": 48904,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\antigua_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\antigua_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "beirut_rooftop_solarpotential",
+      "rows": 69859,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\beirut_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\beirut_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "colombo_rooftop_solarpotential",
+      "rows": 267989,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\colombo_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\colombo_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "daressalaam_rooftop_solarpotential",
+      "rows": 533855,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\daressalaam_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\daressalaam_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "dhaka_rooftop_solarpotential",
+      "rows": 632745,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\dhaka_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\dhaka_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "dominica_rooftop_solarpotential",
+      "rows": 37841,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\dominica_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\dominica_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "grenada_rooftop_solarpotential",
+      "rows": 51115,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\grenada_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\grenada_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "izmir_rooftop_solarpotential",
+      "rows": 287695,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\izmir_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\izmir_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "johannesburg_rooftop_solarpotential",
+      "rows": 414834,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\johannesburg_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\johannesburg_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "karachi_rooftop_solarpotential",
+      "rows": 296688,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\karachi_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\karachi_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "lagosstate_rooftop_solarpotential",
+      "rows": 1542057,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\lagosstate_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\lagosstate_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "maldives_rooftop_solarpotential",
+      "rows": 92074,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\maldives_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\maldives_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "manila_rooftop_solarpotential",
+      "rows": 301381,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\manila_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\manila_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "mexicocity_rooftop_solarpotential",
+      "rows": 589629,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\mexicocity_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\mexicocity_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "nairobi_rooftop_solarpotential",
+      "rows": 272751,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\nairobi_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\nairobi_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "panama8cities_rooftop_solarpotential",
+      "rows": 189854,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\panama8cities_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\panama8cities_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "rustavi_rooftop_solarpotential",
+      "rows": 10160,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\rustavi_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\rustavi_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "samarkand_rooftop_solarpotential",
+      "rows": 190973,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\samarkand_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\samarkand_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "sanpedrosula_rooftop_solarpotential",
+      "rows": 61932,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\sanpedrosula_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\sanpedrosula_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "sintmaarten_rooftop_solarpotential",
+      "rows": 15279,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\sintmaarten_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\sintmaarten_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "stlucia_rooftop_solarpotential",
+      "rows": 3524,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\stlucia_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\stlucia_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "svg_rooftop_solarpotential",
+      "rows": 46707,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\svg_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\svg_rooftop_solarpotential.csv"
+    },
+    {
+      "dataset": "tegucigalpa_rooftop_solarpotential",
+      "rows": 165629,
+      "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\tegucigalpa_rooftop_solarpotential.parquet",
+      "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\tegucigalpa_rooftop_solarpotential.csv"
+    }
+  ],
+  "combined": {
+    "parquet": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\all_cities_clean.parquet",
+    "csv": "C:\\Users\\User\\Desktop\\ML\\Project\\solar-potential-analysis-github-setup\\cleaned_datasets\\all_cities_clean.csv"
+  }
+}

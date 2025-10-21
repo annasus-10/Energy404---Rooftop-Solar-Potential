@@ -1,0 +1,16 @@
+{
+  "str2int": {
+    "commercial": 0,
+    "industrial": 1,
+    "multifamily residential": 2,
+    "public": 3,
+    "single family residential": 4
+  },
+  "int2str": {
+    "0": "commercial",
+    "1": "industrial",
+    "2": "multifamily residential",
+    "3": "public",
+    "4": "single family residential"
+  }
+}
