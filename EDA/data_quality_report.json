@@ -1,39 +1,4 @@
 {
-  "shape": [
-    6530759,
-    7
-  ],
-  "sampled_shape": [
-    195524,
-    7
-  ],
-  "columns": [
-    "City",
-    "Surface_area",
-    "Potential_installable_area",
-    "Peak_installable_capacity",
-    "Energy_potential_per_year",
-    "Assumed_building_type",
-    "Estimated_tilt"
-  ],
-  "dtypes": {
-    "City": "string",
-    "Surface_area": "float64",
-    "Potential_installable_area": "float64",
-    "Peak_installable_capacity": "float64",
-    "Energy_potential_per_year": "float64",
-    "Assumed_building_type": "Int64",
-    "Estimated_tilt": "float64"
-  },
-  "null_counts": {
-    "City": 0,
-    "Surface_area": 0,
-    "Potential_installable_area": 0,
-    "Peak_installable_capacity": 0,
-    "Energy_potential_per_year": 0,
-    "Assumed_building_type": 0,
-    "Estimated_tilt": 0
-  },
   "checks": {
     "area_ratio_violations": 2,
     "negatives_in_Surface_area": 0,
@@ -43,80 +8,66 @@
     "negatives_in_Estimated_tilt": 0,
     "tilt_out_of_range": 0
   },
-  "rows_per_city": {
-    "LagosState": 1329525,
-    "GreatDhakaRegion": 632745,
-    "Mexico City": 589629,
-    "DarEsSalaam": 533855,
-    "SouthAfrica": 414833,
-    "Manila": 301381,
-    "Karachi": 296687,
-    "Izmir": 287695,
-    "Nairobi": 272751,
-    "Accra": 268947,
-    "Colombo": 267989,
-    "Honduras": 227561,
-    "Lagos": 212532,
-    "Samarkand": 190973,
-    "Panama": 189854,
-    "Almaty": 138339,
-    "Maldives": 92074,
-    "Beirut": 69859,
-    "Grenada": 51115,
-    "Antigua": 48904,
-    "SVG": 46707,
-    "Dominica": 37841,
-    "StMaarten": 15279,
-    "Rustavi": 10160,
-    "StLucia": 3524
-  },
-  "building_type_counts": {
-    "0": 4151576,
-    "1": 1544987,
-    "2": 367819,
-    "3": 8644,
-    "4": 154163,
-    "5": 150032,
-    "6": 86643,
-    "7": 35564,
-    "8": 17537,
-    "9": 13794
-  },
-  "ranges": {
-    "Surface_area": {
-      "p50": 105.17,
-      "p90": 315.279998779297,
-      "p99": 913.5,
-      "max": 128651.8,
-      "zero_count": 223
+  "summary": [
+    {
+      "col": "Surface_area",
+      "n": 195524,
+      "zeros": 10,
+      "zero_share": 0.0001,
+      "p50": 102.220001220703,
+      "p90": 318.07400000000024,
+      "p95": 452.1584990844727,
+      "p99": 1040.8456616210906,
+      "p999": 3779.0041700000297,
+      "max": 116484.1171875
     },
-    "Potential_installable_area": {
-      "p50": 52.1100006103516,
-      "p90": 209.81,
-      "p99": 613.3742020507804,
-      "max": 98014.2,
-      "zero_count": 287260
+    {
+      "col": "Potential_installable_area",
+      "n": 195524,
+      "zeros": 8091,
+      "zero_share": 0.0414,
+      "p50": 47.59000007629395,
+      "p90": 196.2,
+      "p95": 281.8900124511723,
+      "p99": 653.1343945312427,
+      "p999": 2640.2261867090506,
+      "max": 66430.8828125
     },
-    "Peak_installable_capacity": {
-      "p50": 10.11,
-      "p90": 40.7000007629395,
-      "p99": 119.01,
-      "max": 19014.75,
-      "zero_count": 287260
+    {
+      "col": "Peak_installable_capacity",
+      "n": 195524,
+      "zeros": 8091,
+      "zero_share": 0.0414,
+      "p50": 9.23,
+      "p90": 38.0699996948242,
+      "p95": 54.68849888127642,
+      "p99": 126.62309753417937,
+      "p999": 512.2040665063598,
+      "max": 12887.58984375
     },
-    "Energy_potential_per_year": {
-      "p50": 13847.22,
-      "p90": 54509.56718750001,
-      "p99": 166930.42719999998,
-      "max": 29525434.0,
-      "zero_count": 287260
+    {
+      "col": "Energy_potential_per_year",
+      "n": 195524,
+      "zeros": 8091,
+      "zero_share": 0.0414,
+      "p50": 12804.645,
+      "p90": 51682.17471875,
+      "p95": 74263.36412500001,
+      "p99": 176295.42718749962,
+      "p999": 732421.1579250202,
+      "max": 18145726.0
     },
-    "Estimated_tilt": {
-      "p50": 15.5,
-      "p90": 24.2,
-      "p99": 29.9099998474121,
-      "max": 57.47,
-      "zero_count": 745857
+    {
+      "col": "Estimated_tilt",
+      "n": 195524,
+      "zeros": 15523,
+      "zero_share": 0.0794,
+      "p50": 15.48,
+      "p90": 24.8099994659424,
+      "p95": 28.2199993133545,
+      "p99": 33.6699981689453,
+      "p999": 39.55477000000013,
+      "max": 57.47
     }
-  }
+  ]
 }

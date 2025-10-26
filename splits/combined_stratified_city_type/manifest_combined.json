@@ -1,0 +1,15 @@
+{
+  "source_file": "cleaned_datasets/all_cities_clean.parquet",
+  "strategy": "combined_stratified_city_type",
+  "test_size": 0.2,
+  "seed": 404,
+  "rows_total": 6530761,
+  "train_rows": 5224608,
+  "test_rows": 1306153,
+  "stratify_key": "_city_type",
+  "train_parquet_sha1": "2b7e765217e8462e7e22ca77de638d3fb5c10a35",
+  "test_parquet_sha1": "1e45ceffbf0b6538cb68ac0166c2bda0c7cbeb19",
+  "train_csv_sha1": "8bd0f392a0d3fbf65da64d364f4680b7db811ba8",
+  "test_csv_sha1": "b75973ac2b01866cc9f3c037236736eecb09170c",
+  "median_abs_diff_share": 1.9259122735308665e-07
+}
