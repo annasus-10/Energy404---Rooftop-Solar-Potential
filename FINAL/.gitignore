@@ -1,0 +1,12 @@
+# Ignore model binaries and backups
+models/
+models_local_backup/
+*.pkl
+
+# Common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+.env/
+.venv/
