@@ -61,13 +61,9 @@ PRECIP = row["precip_mm_day"]
 if st.sidebar.button("Predict Solar Potential"):
     with st.spinner("Predicting... ☀️"):
         prediction = predict_energy(
-            city=selected_city,
+    city=selected_city,
             building_type=selected_type,
-            tilt=tilt,
-            ghi=GHI,
-            temp=TEMP,
-            clearness=CLEAR,
-            precip=PRECIP,
+            tilt=tilt
         )
 
         annual_energy = prediction * 1.0  # already kWh/m²/year
@@ -82,7 +78,7 @@ if st.sidebar.button("Predict Solar Potential"):
 st.markdown("---")
 st.markdown(
     """
-    🌍 *Energy404 — AIT Machine Learning Project*  
-    **Team:** [Your team names here]  
+    🌍 *Rooftop Solar Potential Predictor*  
+    **Team: Energy404** | November 2025
     """
 )
